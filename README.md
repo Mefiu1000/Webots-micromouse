@@ -8,7 +8,7 @@ Zamodelowano labirynt 16x16 komórek z celem w postaci 4 komórek w centrum. Do 
 wykorzystano robota e-puck dostępnego w bibliotece Webots.
 Do znalezienia najkrótszej trasy w dziedzinie odległości wykorzystano algorytm zalewania wodą (floodfill).
 
-Cały kod programu sterującego wirtualnym robotem jest zapisany w językuC w jednym pliku
+Cały kod programu sterującego wirtualnym robotem jest zapisany w języku C w jednym pliku
 źródłowym. W zależności od wybranego trybu sterowania wykonuje się jedna z 3 części kodu:
  sterowanie ręczne,
  eksploracja labiryntu,
