@@ -1,4 +1,4 @@
-# Webots-micromouse
+# Webots-micromouse (Webots 2019)
 
 W ramach projektu stworzono symulację działania robota typu micromouse, którego celem jest pokonanie labiryntu w jak najkrótszym czasie. 
 Napisany kontroler dla robota został później wykorzystany przy projekcie robota typu maze-solver zbudowanego z Lego Mindstorms NXT 2.0,
